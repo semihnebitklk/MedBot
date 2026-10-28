@@ -1,0 +1,7 @@
+Model,Seçilen hiperparametreler,CV ROC-AUC
+Lojistik Regresyon,"{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}",0.9258
+KNN,"{'n_neighbors': 21, 'p': 1, 'weights': 'distance'}",0.9245
+SVM,"{'C': 10, 'gamma': 'scale', 'kernel': 'linear'}",0.9266
+Karar Ağacı,"{'criterion': 'entropy', 'max_depth': 4, 'min_samples_leaf': 20}",0.9084
+Random Forest,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'n_estimators': 200}",0.9348
+XGBoost,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100, 'subsample': 1.0}",0.9369

@@ -1,0 +1,5 @@
+Sorun,Kayıt sayısı,Yapılan işlem
+RestingBP = 0,1,"Kayıt silindi (fizyolojik olarak imkânsız, tek kayıt)"
+Cholesterol = 0,171,NaN yapıldı; 'Cholesterol_eksik' sütunu eklendi; modelde medyanla doldurulacak
+Oldpeak < 0,13,"Korundu (ST yükselmesi, klinik olarak mümkün)"
+Tekrarlanan satır,0,Silindi

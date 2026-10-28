@@ -1,0 +1,13 @@
+# Sanal ortam (requirements.txt ile yeniden kurulur)
+.venv/
+
+# Python / Jupyter geçici dosyaları
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Teslim için hazırlanan arşiv
+*.zip

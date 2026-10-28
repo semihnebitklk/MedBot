@@ -1,0 +1,414 @@
+{
+  "diseases": [
+    {
+      "name": "Acne",
+      "description": "A common skin condition where hair follicles get clogged with oil and dead skin, causing pimples, blackheads and whiteheads.",
+      "advice": [
+        "Wash your face twice a day with a gentle cleanser",
+        "Avoid squeezing or picking pimples",
+        "Use non-comedogenic (oil-free) skin products"
+      ],
+      "see_doctor": "See a dermatologist if acne is severe, painful, leaves scars or does not improve after a few weeks.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/acne.html",
+      "red_flags": [
+        "Large, painful cysts or nodules",
+        "Sudden severe acne in adulthood"
+      ]
+    },
+    {
+      "name": "Allergy",
+      "description": "An overreaction of the immune system to substances such as pollen, dust, food or animal hair, causing sneezing, itching, rash or watery eyes.",
+      "advice": [
+        "Try to identify and avoid the trigger",
+        "Keep your home clean and dust-free",
+        "Over-the-counter antihistamines may help (ask a pharmacist)"
+      ],
+      "see_doctor": "Seek emergency care immediately if you have swelling of the face or throat or difficulty breathing.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/allergy.html",
+      "red_flags": [
+        "Swelling of the face, lips, tongue or throat",
+        "Difficulty breathing or wheezing",
+        "Dizziness or fainting after exposure"
+      ]
+    },
+    {
+      "name": "Arthritis",
+      "description": "Inflammation of one or more joints, causing pain, stiffness and swelling that often worsens with age.",
+      "advice": [
+        "Stay active with gentle, low-impact exercise",
+        "Maintain a healthy body weight",
+        "Warm or cold compresses can ease pain"
+      ],
+      "see_doctor": "See a doctor if joint pain lasts more than a few weeks or a joint becomes red, hot and swollen.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/arthritis.html",
+      "red_flags": [
+        "A joint that is suddenly hot, red and very swollen",
+        "Joint pain with fever"
+      ]
+    },
+    {
+      "name": "Bronchial Asthma",
+      "description": "A chronic condition in which the airways narrow and swell, causing wheezing, coughing, chest tightness and shortness of breath.",
+      "advice": [
+        "Avoid triggers such as smoke, dust and cold air",
+        "Always carry your prescribed inhaler",
+        "Do not smoke"
+      ],
+      "see_doctor": "Seek emergency care if breathing becomes very difficult or your inhaler does not help.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/asthma.html",
+      "red_flags": [
+        "Severe shortness of breath or difficulty speaking",
+        "Bluish lips or fingernails",
+        "Inhaler does not relieve symptoms"
+      ]
+    },
+    {
+      "name": "Cervical Spondylosis",
+      "description": "Age-related wear of the discs and joints in the neck, causing neck pain, stiffness and sometimes headaches or arm numbness.",
+      "advice": [
+        "Keep a good posture, especially at the computer",
+        "Do gentle neck stretching exercises",
+        "Use a supportive pillow"
+      ],
+      "see_doctor": "See a doctor if you have numbness or weakness in your arms or hands, or loss of balance.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/ency/article/000436.htm",
+      "red_flags": [
+        "Numbness or weakness in the arms or legs",
+        "Loss of bladder or bowel control",
+        "Trouble walking or loss of balance"
+      ]
+    },
+    {
+      "name": "Chicken Pox",
+      "description": "A highly contagious viral infection causing an itchy rash of small fluid-filled blisters, fever and tiredness.",
+      "advice": [
+        "Stay at home until all blisters have crusted over",
+        "Avoid scratching; trim your nails",
+        "Calamine lotion and cool baths can relieve itching"
+      ],
+      "see_doctor": "See a doctor if the rash spreads to the eyes, the skin becomes very red and painful, or you are pregnant or have a weak immune system.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/chickenpox.html",
+      "red_flags": [
+        "Rash spreading to the eyes",
+        "Difficulty breathing",
+        "High fever lasting more than 4 days",
+        "Confusion or a stiff neck"
+      ]
+    },
+    {
+      "name": "Common Cold",
+      "description": "A mild viral infection of the nose and throat causing a runny nose, sneezing, sore throat and cough.",
+      "advice": [
+        "Rest and drink plenty of fluids",
+        "Gargle with warm salt water for a sore throat",
+        "Wash your hands often to avoid spreading it"
+      ],
+      "see_doctor": "See a doctor if symptoms last more than 10 days or you have a high fever or trouble breathing.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/commoncold.html",
+      "red_flags": [
+        "Difficulty breathing",
+        "Fever above 39 °C (102 °F)",
+        "Symptoms lasting more than 10 days"
+      ]
+    },
+    {
+      "name": "Dengue",
+      "description": "A mosquito-borne viral infection causing high fever, severe headache, pain behind the eyes, joint and muscle pain and rash.",
+      "advice": [
+        "Rest and drink plenty of fluids",
+        "Use paracetamol for fever; avoid aspirin and ibuprofen",
+        "Prevent mosquito bites"
+      ],
+      "see_doctor": "Seek medical care promptly, and urgently if you have bleeding, severe abdominal pain or persistent vomiting.",
+      "urgency": "high",
+      "source": "https://medlineplus.gov/dengue.html",
+      "red_flags": [
+        "Severe abdominal pain",
+        "Persistent vomiting",
+        "Bleeding from the gums or nose",
+        "Extreme tiredness or restlessness"
+      ]
+    },
+    {
+      "name": "Diabetes",
+      "description": "A long-term condition where blood sugar is too high, often causing excessive thirst, frequent urination, tiredness and weight loss.",
+      "advice": [
+        "Limit sugar and refined carbohydrates",
+        "Exercise regularly",
+        "Have your blood sugar checked"
+      ],
+      "see_doctor": "See a doctor for a blood sugar test if you have these symptoms; diabetes needs medical management.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/diabetes.html",
+      "red_flags": [
+        "Confusion or loss of consciousness",
+        "Fruity-smelling breath with nausea or vomiting",
+        "Very high blood sugar readings"
+      ]
+    },
+    {
+      "name": "Dimorphic Hemorrhoids",
+      "description": "Swollen veins in the lower rectum and anus, causing pain, itching, discomfort and sometimes bleeding during bowel movements.",
+      "advice": [
+        "Eat high-fiber foods and drink plenty of water",
+        "Avoid straining during bowel movements",
+        "Warm sitz baths can relieve discomfort"
+      ],
+      "see_doctor": "See a doctor if you have rectal bleeding, as it can also be a sign of other conditions.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/hemorrhoids.html",
+      "red_flags": [
+        "Heavy rectal bleeding",
+        "Black or tarry stools",
+        "Bleeding with dizziness or weakness"
+      ]
+    },
+    {
+      "name": "Drug Reaction",
+      "description": "An unwanted reaction of the body to a medicine, which can cause rash, itching, fever or swelling.",
+      "advice": [
+        "Stop taking the suspected medicine only after asking your doctor",
+        "Keep a list of medicines you react to",
+        "Tell every doctor about your drug allergies"
+      ],
+      "see_doctor": "Seek emergency care immediately if you have swelling of the face, lips or throat, or difficulty breathing.",
+      "urgency": "high",
+      "source": "https://medlineplus.gov/drugreactions.html",
+      "red_flags": [
+        "Swelling of the face, lips or throat",
+        "Difficulty breathing",
+        "Blistering or peeling skin"
+      ]
+    },
+    {
+      "name": "Fungal Infection",
+      "description": "An infection of the skin, nails or other areas caused by fungi, often causing itching, redness and scaly patches.",
+      "advice": [
+        "Keep the affected area clean and dry",
+        "Do not share towels or shoes",
+        "Antifungal creams are available (ask a pharmacist)"
+      ],
+      "see_doctor": "See a doctor if the infection spreads, does not improve in two weeks, or you have diabetes or a weak immune system.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/fungalinfections.html",
+      "red_flags": [
+        "Infection spreading quickly",
+        "Fever with a skin infection",
+        "Weak immune system or diabetes"
+      ]
+    },
+    {
+      "name": "Gastroesophageal Reflux Disease",
+      "description": "A condition where stomach acid flows back into the esophagus, causing heartburn, a sour taste and chest discomfort after eating.",
+      "advice": [
+        "Eat smaller meals and avoid lying down right after eating",
+        "Limit spicy, fatty foods, coffee and alcohol",
+        "Raise the head of your bed"
+      ],
+      "see_doctor": "See a doctor if you have difficulty swallowing, weight loss or symptoms more than twice a week. Chest pain should always be checked.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/gerd.html",
+      "red_flags": [
+        "Chest pain, especially with shortness of breath or arm/jaw pain",
+        "Difficulty or pain when swallowing",
+        "Vomiting blood or black stools"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "description": "High blood pressure; often has no symptoms but can cause headaches, dizziness and increases the risk of heart disease and stroke.",
+      "advice": [
+        "Reduce salt intake",
+        "Exercise regularly and keep a healthy weight",
+        "Measure your blood pressure regularly"
+      ],
+      "see_doctor": "See a doctor to have your blood pressure checked; seek emergency care for severe headache, chest pain or vision problems.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/highbloodpressure.html",
+      "red_flags": [
+        "Severe headache with confusion or vision problems",
+        "Chest pain or shortness of breath",
+        "Weakness or numbness on one side of the body"
+      ]
+    },
+    {
+      "name": "Impetigo",
+      "description": "A contagious bacterial skin infection, common in children, causing red sores that burst and form honey-colored crusts.",
+      "advice": [
+        "Keep the sores clean and covered",
+        "Avoid touching or scratching them",
+        "Do not share towels"
+      ],
+      "see_doctor": "See a doctor; impetigo usually needs antibiotic cream or tablets.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/impetigo.html",
+      "red_flags": [
+        "Fever",
+        "Sores spreading despite treatment",
+        "Dark or cola-colored urine"
+      ]
+    },
+    {
+      "name": "Jaundice",
+      "description": "Yellowing of the skin and eyes caused by high bilirubin levels, often a sign of a liver or gallbladder problem.",
+      "advice": [
+        "Avoid alcohol",
+        "Drink plenty of fluids",
+        "Do not take medicines without medical advice"
+      ],
+      "see_doctor": "See a doctor promptly; jaundice always needs medical investigation.",
+      "urgency": "high",
+      "source": "https://medlineplus.gov/ency/article/000210.htm",
+      "red_flags": [
+        "Confusion or drowsiness",
+        "Severe abdominal pain",
+        "Vomiting blood"
+      ]
+    },
+    {
+      "name": "Malaria",
+      "description": "A serious mosquito-borne parasitic infection causing high fever, chills, sweating, headache and body aches.",
+      "advice": [
+        "Seek medical testing as soon as possible",
+        "Prevent mosquito bites with nets and repellents",
+        "Drink plenty of fluids"
+      ],
+      "see_doctor": "Seek medical care urgently, especially if you have recently been in a malaria region; malaria can become life-threatening.",
+      "urgency": "high",
+      "source": "https://medlineplus.gov/malaria.html",
+      "red_flags": [
+        "Confusion or seizures",
+        "Difficulty breathing",
+        "Yellow skin or dark urine",
+        "Fever after travel to a malaria region"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "description": "A type of headache causing intense throbbing pain, often on one side, with nausea and sensitivity to light and sound.",
+      "advice": [
+        "Rest in a quiet, dark room",
+        "Keep regular sleep and meal times",
+        "Note your triggers in a headache diary"
+      ],
+      "see_doctor": "Seek emergency care for a sudden, very severe headache or a headache with weakness, confusion or vision loss.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/migraine.html",
+      "red_flags": [
+        "Sudden, very severe 'worst ever' headache",
+        "Headache with fever and stiff neck",
+        "Weakness, numbness or trouble speaking"
+      ]
+    },
+    {
+      "name": "Peptic Ulcer Disease",
+      "description": "Open sores in the lining of the stomach or small intestine, causing burning stomach pain, bloating and nausea.",
+      "advice": [
+        "Avoid painkillers like aspirin and ibuprofen unless prescribed",
+        "Limit alcohol and stop smoking",
+        "Eat regular, smaller meals"
+      ],
+      "see_doctor": "See a doctor; seek emergency care if you vomit blood or have black, tarry stools.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/pepticulcer.html",
+      "red_flags": [
+        "Vomiting blood or material that looks like coffee grounds",
+        "Black, tarry stools",
+        "Sudden severe stomach pain"
+      ]
+    },
+    {
+      "name": "Pneumonia",
+      "description": "An infection that inflames the air sacs of the lungs, causing cough with phlegm, fever, chills and difficulty breathing.",
+      "advice": [
+        "Rest and drink plenty of fluids",
+        "Do not smoke",
+        "Complete any prescribed treatment"
+      ],
+      "see_doctor": "See a doctor promptly; seek emergency care if you have trouble breathing, chest pain or bluish lips.",
+      "urgency": "high",
+      "source": "https://medlineplus.gov/pneumonia.html",
+      "red_flags": [
+        "Difficulty breathing",
+        "Bluish lips or fingertips",
+        "Chest pain",
+        "Confusion, especially in older adults"
+      ]
+    },
+    {
+      "name": "Psoriasis",
+      "description": "A chronic skin condition causing red, itchy, scaly patches, most often on the elbows, knees and scalp.",
+      "advice": [
+        "Moisturize your skin daily",
+        "Avoid scratching and skin injuries",
+        "Manage stress, which can trigger flare-ups"
+      ],
+      "see_doctor": "See a dermatologist for diagnosis and treatment options, or if you also have joint pain.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/psoriasis.html",
+      "red_flags": [
+        "Widespread red, painful skin",
+        "Pus-filled blisters with fever",
+        "Swollen, painful joints"
+      ]
+    },
+    {
+      "name": "Typhoid",
+      "description": "A bacterial infection spread through contaminated food and water, causing prolonged high fever, weakness, stomach pain and headache.",
+      "advice": [
+        "Drink only safe, boiled or bottled water",
+        "Wash your hands before eating",
+        "Rest and stay hydrated"
+      ],
+      "see_doctor": "See a doctor promptly; typhoid needs antibiotic treatment.",
+      "urgency": "high",
+      "source": "https://medlineplus.gov/ency/article/001332.htm",
+      "red_flags": [
+        "Severe abdominal pain",
+        "Blood in stool",
+        "Confusion"
+      ]
+    },
+    {
+      "name": "Urinary Tract Infection",
+      "description": "An infection in the urinary system causing a burning feeling when urinating, frequent urge to urinate and cloudy urine.",
+      "advice": [
+        "Drink plenty of water",
+        "Do not hold your urine for long",
+        "Avoid irritants like coffee and alcohol"
+      ],
+      "see_doctor": "See a doctor; UTIs usually need antibiotics. Seek care quickly if you have fever or back pain.",
+      "urgency": "medium",
+      "source": "https://medlineplus.gov/urinarytractinfections.html",
+      "red_flags": [
+        "Fever and chills",
+        "Pain in the back or side",
+        "Nausea or vomiting"
+      ]
+    },
+    {
+      "name": "Varicose Veins",
+      "description": "Enlarged, twisted veins, usually in the legs, which can cause aching, heaviness and swelling.",
+      "advice": [
+        "Avoid standing or sitting for long periods",
+        "Elevate your legs when resting",
+        "Walk regularly and keep a healthy weight"
+      ],
+      "see_doctor": "See a doctor if the veins are painful, the skin changes color or you develop sores near the ankle.",
+      "urgency": "low",
+      "source": "https://medlineplus.gov/varicoseveins.html",
+      "red_flags": [
+        "A swollen, painful, warm leg (possible blood clot)",
+        "Bleeding from a vein",
+        "Open sores near the ankle"
+      ]
+    }
+  ]
+}

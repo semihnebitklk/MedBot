@@ -1,0 +1,6 @@
+Karşılaştırma,Ortalama fark,p-değeri,Anlamlı mı? (p < 0.05)
+XGBoost vs Lojistik Regresyon,0.0071,0.0,Evet
+XGBoost vs KNN,0.0087,0.0003,Evet
+XGBoost vs SVM,0.0065,0.0001,Evet
+XGBoost vs Karar Ağacı,0.0328,0.0,Evet
+XGBoost vs Random Forest,0.0042,0.0156,Evet

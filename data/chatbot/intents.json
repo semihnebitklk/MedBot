@@ -1,0 +1,94 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "hi there",
+        "hello there",
+        "merhaba",
+        "selam"
+      ],
+      "responses": [
+        "Hello! I'm MedBot. Describe your symptoms in a sentence, or type 'check my heart risk'.",
+        "Hi there! How are you feeling today? You can tell me your symptoms."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you",
+        "see you later",
+        "good night",
+        "quit",
+        "exit"
+      ],
+      "responses": [
+        "Take care and stay healthy!",
+        "Goodbye! Remember to consult a doctor for any serious concern."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "thank you so much",
+        "thanks a lot",
+        "that was helpful",
+        "great help"
+      ],
+      "responses": [
+        "You're welcome! Get well soon.",
+        "Happy to help! Take care."
+      ]
+    },
+    {
+      "tag": "identity",
+      "patterns": [
+        "who are you",
+        "what are you",
+        "what is your name",
+        "are you a doctor",
+        "are you a bot",
+        "are you human"
+      ],
+      "responses": [
+        "I'm MedBot, an AI health assistant built with machine learning. I am not a doctor and I cannot make a diagnosis."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "help",
+        "what can you do",
+        "how do you work",
+        "how can you help me",
+        "menu"
+      ],
+      "responses": [
+        "I can do three things:\n1) Describe your symptoms in a sentence (e.g. 'I have a fever and a headache') and I'll suggest possible conditions.\n2) Ask about a disease, e.g. 'what is malaria?' or 'symptoms of dengue'.\n3) Type 'check my heart risk' and I'll estimate your heart disease risk with 11 questions."
+      ]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "how are you",
+        "how are you doing",
+        "how is it going",
+        "whats up",
+        "what's up"
+      ],
+      "responses": [
+        "I'm just a program, but I'm ready to help! How are you feeling?"
+      ]
+    }
+  ]
+}

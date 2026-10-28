@@ -1,0 +1,770 @@
+{
+  "Acne": [
+    {
+      "terim": "blackhead",
+      "belirti": "blackheads",
+      "oran": 1.0,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "pimple",
+      "belirti": "pimples",
+      "oran": 1.0,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "pu",
+      "belirti": "pus-filled spots",
+      "oran": 0.3,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "rash skin",
+      "belirti": "skin rash",
+      "oran": 0.43,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "sensitive",
+      "belirti": "sensitive skin",
+      "oran": 0.24,
+      "diger_oran": 0.01
+    }
+  ],
+  "Allergy": [
+    {
+      "terim": "eye",
+      "belirti": "itchy or watery eyes",
+      "oran": 0.44,
+      "diger_oran": 0.03
+    },
+    {
+      "terim": "sore throat",
+      "belirti": "sore throat",
+      "oran": 0.22,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "lip",
+      "belirti": "swollen lips",
+      "oran": 0.2,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "sneeze",
+      "belirti": "sneezing",
+      "oran": 0.14,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "swell",
+      "belirti": "swelling",
+      "oran": 0.14,
+      "diger_oran": 0.01
+    }
+  ],
+  "Arthritis": [
+    {
+      "terim": "walking",
+      "belirti": "difficulty walking",
+      "oran": 0.76,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "joint",
+      "belirti": "joint pain",
+      "oran": 1.0,
+      "diger_oran": 0.03
+    },
+    {
+      "terim": "stiff",
+      "belirti": "stiffness",
+      "oran": 0.76,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "move",
+      "belirti": "pain when moving",
+      "oran": 0.57,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "weak neck",
+      "belirti": "weak neck muscles",
+      "oran": 0.28,
+      "diger_oran": 0.0
+    }
+  ],
+  "Bronchial Asthma": [
+    {
+      "terim": "mucoid",
+      "belirti": "mucus when coughing",
+      "oran": 0.43,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "sputum",
+      "belirti": "thick sputum",
+      "oran": 0.35,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "cough",
+      "belirti": "cough",
+      "oran": 0.86,
+      "diger_oran": 0.08
+    },
+    {
+      "terim": "breathing",
+      "belirti": "difficulty breathing",
+      "oran": 0.57,
+      "diger_oran": 0.04
+    },
+    {
+      "terim": "fever",
+      "belirti": "fever",
+      "oran": 0.94,
+      "diger_oran": 0.17
+    }
+  ],
+  "Cervical Spondylosis": [
+    {
+      "terim": "neck hurt",
+      "belirti": "neck pain",
+      "oran": 0.59,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "back",
+      "belirti": "back pain",
+      "oran": 0.96,
+      "diger_oran": 0.04
+    },
+    {
+      "terim": "weakness",
+      "belirti": "weakness",
+      "oran": 0.67,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "limb",
+      "belirti": "weak arms or legs",
+      "oran": 0.35,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "cough",
+      "belirti": "cough",
+      "oran": 0.86,
+      "diger_oran": 0.08
+    }
+  ],
+  "Chicken Pox": [
+    {
+      "terim": "red spot",
+      "belirti": "red spots on the skin",
+      "oran": 0.37,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "lost appetite",
+      "belirti": "loss of appetite",
+      "oran": 0.29,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "lymph node",
+      "belirti": "swollen lymph nodes",
+      "oran": 0.18,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "spreading",
+      "belirti": "spreading rash",
+      "oran": 0.14,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "causing",
+      "belirti": null,
+      "oran": 0.27,
+      "diger_oran": 0.03
+    }
+  ],
+  "Common Cold": [
+    {
+      "terim": "sinus",
+      "belirti": "sinus pressure",
+      "oran": 0.41,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "sneezing",
+      "belirti": "sneezing",
+      "oran": 0.31,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "congested",
+      "belirti": "congestion",
+      "oran": 0.18,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "stuffy",
+      "belirti": "stuffy nose",
+      "oran": 0.14,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "cold",
+      "belirti": null,
+      "oran": 0.2,
+      "diger_oran": 0.0
+    }
+  ],
+  "Dengue": [
+    {
+      "terim": "behind eye",
+      "belirti": "pain behind the eyes",
+      "oran": 0.2,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "red spot",
+      "belirti": "red spots on the skin",
+      "oran": 0.26,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "developed rash",
+      "belirti": "rash",
+      "oran": 0.12,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "lost appetite",
+      "belirti": "loss of appetite",
+      "oran": 0.18,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "back",
+      "belirti": "back pain",
+      "oran": 0.34,
+      "diger_oran": 0.07
+    }
+  ],
+  "Diabetes": [
+    {
+      "terim": "palpitation",
+      "belirti": "palpitations",
+      "oran": 0.18,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "healing",
+      "belirti": "slow-healing wounds",
+      "oran": 0.16,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "mouth throat",
+      "belirti": "dry mouth and throat",
+      "oran": 0.12,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "infection",
+      "belirti": "frequent infections",
+      "oran": 0.2,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "wound",
+      "belirti": "wound",
+      "oran": 0.12,
+      "diger_oran": 0.0
+    }
+  ],
+  "Dimorphic Hemorrhoids": [
+    {
+      "terim": "anus",
+      "belirti": "pain around the anus",
+      "oran": 1.0,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "stool",
+      "belirti": "changes in stool",
+      "oran": 0.63,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "restroom",
+      "belirti": null,
+      "oran": 0.37,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "bowel",
+      "belirti": "painful bowel movements",
+      "oran": 0.37,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "bleeding",
+      "belirti": "bleeding",
+      "oran": 0.24,
+      "diger_oran": 0.0
+    }
+  ],
+  "Drug Reaction": [
+    {
+      "terim": "lightheaded",
+      "belirti": "lightheadedness",
+      "oran": 0.14,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "dry",
+      "belirti": null,
+      "oran": 0.12,
+      "diger_oran": 0.04
+    },
+    {
+      "terim": "chest",
+      "belirti": null,
+      "oran": 0.2,
+      "diger_oran": 0.11
+    },
+    {
+      "terim": "trouble",
+      "belirti": null,
+      "oran": 0.12,
+      "diger_oran": 0.06
+    },
+    {
+      "terim": "skin",
+      "belirti": "skin rash",
+      "oran": 0.28,
+      "diger_oran": 0.21
+    }
+  ],
+  "Fungal Infection": [
+    {
+      "terim": "patch",
+      "belirti": "scaly patches",
+      "oran": 0.48,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "bump",
+      "belirti": "bumps on the skin",
+      "oran": 0.46,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "lump",
+      "belirti": "lumps under the skin",
+      "oran": 0.4,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "rashy",
+      "belirti": null,
+      "oran": 0.22,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "bumpy",
+      "belirti": "bumpy",
+      "oran": 0.18,
+      "diger_oran": 0.0
+    }
+  ],
+  "Gastroesophageal Reflux Disease": [
+    {
+      "terim": "heartburn",
+      "belirti": "heartburn",
+      "oran": 0.37,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "eating",
+      "belirti": "discomfort after eating",
+      "oran": 0.44,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "food",
+      "belirti": null,
+      "oran": 0.35,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "sour",
+      "belirti": "sour taste in the mouth",
+      "oran": 0.27,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "throat",
+      "belirti": "burning throat",
+      "oran": 0.69,
+      "diger_oran": 0.08
+    }
+  ],
+  "Hypertension": [
+    {
+      "terim": "headache chest",
+      "belirti": "headache with chest pain",
+      "oran": 0.64,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "dizziness",
+      "belirti": "dizziness",
+      "oran": 0.66,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "focus",
+      "belirti": "trouble concentrating",
+      "oran": 0.38,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "concentrate",
+      "belirti": null,
+      "oran": 0.38,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "balance",
+      "belirti": "loss of balance",
+      "oran": 0.46,
+      "diger_oran": 0.02
+    }
+  ],
+  "Impetigo": [
+    {
+      "terim": "sore",
+      "belirti": "sores",
+      "oran": 0.8,
+      "diger_oran": 0.05
+    },
+    {
+      "terim": "face",
+      "belirti": "sores on the face",
+      "oran": 0.54,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "nose",
+      "belirti": "sores around the nose",
+      "oran": 0.66,
+      "diger_oran": 0.04
+    },
+    {
+      "terim": "fluid",
+      "belirti": "fluid-filled blisters",
+      "oran": 0.24,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "lesion",
+      "belirti": "skin lesions",
+      "oran": 0.2,
+      "diger_oran": 0.0
+    }
+  ],
+  "Jaundice": [
+    {
+      "terim": "lost weight",
+      "belirti": "weight loss",
+      "oran": 0.74,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "yellow",
+      "belirti": "yellow skin or eyes",
+      "oran": 1.0,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "skin turned",
+      "belirti": null,
+      "oran": 0.42,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "urine",
+      "belirti": "dark urine",
+      "oran": 0.71,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "dark",
+      "belirti": null,
+      "oran": 0.53,
+      "diger_oran": 0.01
+    }
+  ],
+  "Malaria": [
+    {
+      "terim": "nausea muscle",
+      "belirti": "nausea and muscle pain",
+      "oran": 0.55,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "perspiring",
+      "belirti": "heavy sweating",
+      "oran": 0.68,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "chill",
+      "belirti": "chills",
+      "oran": 1.0,
+      "diger_oran": 0.04
+    },
+    {
+      "terim": "headache",
+      "belirti": "headache",
+      "oran": 1.0,
+      "diger_oran": 0.13
+    },
+    {
+      "terim": "itching",
+      "belirti": "itching",
+      "oran": 0.66,
+      "diger_oran": 0.06
+    }
+  ],
+  "Migraine": [
+    {
+      "terim": "visual",
+      "belirti": "visual disturbances",
+      "oran": 0.62,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "vision",
+      "belirti": "blurred vision",
+      "oran": 0.72,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "indigestion",
+      "belirti": "indigestion",
+      "oran": 0.77,
+      "diger_oran": 0.02
+    },
+    {
+      "terim": "irritability",
+      "belirti": "irritability",
+      "oran": 0.47,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "disturbance",
+      "belirti": null,
+      "oran": 0.47,
+      "diger_oran": 0.0
+    }
+  ],
+  "Peptic Ulcer Disease": [
+    {
+      "terim": "bloating",
+      "belirti": "bloating",
+      "oran": 0.18,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "acidic",
+      "belirti": "acid taste",
+      "oran": 0.2,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "stool",
+      "belirti": "changes in stool",
+      "oran": 0.3,
+      "diger_oran": 0.03
+    },
+    {
+      "terim": "abdomen",
+      "belirti": "upper abdominal pain",
+      "oran": 0.18,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "belching",
+      "belirti": "belching",
+      "oran": 0.12,
+      "diger_oran": 0.0
+    }
+  ],
+  "Pneumonia": [
+    {
+      "terim": "heart",
+      "belirti": "racing heart",
+      "oran": 0.83,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "phlegm",
+      "belirti": "phlegm",
+      "oran": 0.64,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "brownish",
+      "belirti": "brownish mucus",
+      "oran": 0.4,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "racing",
+      "belirti": null,
+      "oran": 0.45,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "sweating",
+      "belirti": "sweating",
+      "oran": 0.49,
+      "diger_oran": 0.02
+    }
+  ],
+  "Psoriasis": [
+    {
+      "terim": "nail",
+      "belirti": "nail changes",
+      "oran": 0.32,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "dent",
+      "belirti": "dents in nails",
+      "oran": 0.24,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "elbow",
+      "belirti": "rash on elbows",
+      "oran": 0.24,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "peeling",
+      "belirti": "peeling skin",
+      "oran": 0.22,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "knee",
+      "belirti": "rash on knees",
+      "oran": 0.22,
+      "diger_oran": 0.0
+    }
+  ],
+  "Typhoid": [
+    {
+      "terim": "constipation",
+      "belirti": "constipation",
+      "oran": 0.48,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "diarrhea",
+      "belirti": "diarrhea",
+      "oran": 0.32,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "belly",
+      "belirti": "belly pain",
+      "oran": 0.26,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "abdominal",
+      "belirti": "abdominal pain",
+      "oran": 0.24,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "vomiting",
+      "belirti": "vomiting",
+      "oran": 0.34,
+      "diger_oran": 0.04
+    }
+  ],
+  "Urinary Tract Infection": [
+    {
+      "terim": "pee",
+      "belirti": "frequent urination",
+      "oran": 0.64,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "urinate",
+      "belirti": "burning when urinating",
+      "oran": 0.48,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "urge",
+      "belirti": "strong urge to urinate",
+      "oran": 0.36,
+      "diger_oran": 0.01
+    },
+    {
+      "terim": "odour",
+      "belirti": "strong-smelling urine",
+      "oran": 0.16,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "blood",
+      "belirti": "blood in urine",
+      "oran": 0.38,
+      "diger_oran": 0.02
+    }
+  ],
+  "Varicose Veins": [
+    {
+      "terim": "vein",
+      "belirti": "visible veins",
+      "oran": 0.44,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "calf",
+      "belirti": "calf pain",
+      "oran": 0.42,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "leg",
+      "belirti": "leg pain",
+      "oran": 0.74,
+      "diger_oran": 0.03
+    },
+    {
+      "terim": "vessel",
+      "belirti": "swollen blood vessels",
+      "oran": 0.24,
+      "diger_oran": 0.0
+    },
+    {
+      "terim": "cramp",
+      "belirti": "leg cramps",
+      "oran": 0.38,
+      "diger_oran": 0.01
+    }
+  ]
+}

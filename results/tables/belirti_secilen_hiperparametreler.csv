@@ -1,0 +1,7 @@
+Model,Seçilen ayarlar,CV macro-F1
+Lojistik Regresyon,"{'C': 100, 'ngram_range': (1, 1)}",0.97
+SVM (doğrusal),"{'C': 10, 'ngram_range': (1, 2)}",0.9724
+Naive Bayes,"{'alpha': 0.01, 'ngram_range': (1, 2)}",0.9699
+KNN,"{'n_neighbors': 3, 'weights': 'distance', 'ngram_range': (1, 1)}",0.9514
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 300, 'ngram_range': (1, 1)}",0.95
+Yapay Sinir Ağı (MLP),"{'alpha': 0.01, 'hidden_layer_sizes': (128,), 'ngram_range': (1, 2)}",0.969

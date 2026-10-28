@@ -1,0 +1,7 @@
+,F1 (varsayılan),F1 (optimize),Fark
+Lojistik Regresyon,0.9437,0.9747,0.031
+SVM (doğrusal),0.9707,0.966,-0.0047
+Yapay Sinir Ağı (MLP),0.9703,0.966,-0.0043
+KNN,0.9276,0.9578,0.0302
+Naive Bayes,0.9382,0.9526,0.0144
+Random Forest,0.957,0.9438,-0.0132

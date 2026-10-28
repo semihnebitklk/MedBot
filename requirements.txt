@@ -1,0 +1,11 @@
+# Python 3.12 ile test edildi
+pandas==3.1.0
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+xgboost==3.4.1
+scipy==1.18.1
+nltk==3.10.4
+joblib==1.6.0
+ipykernel==7.4.0
